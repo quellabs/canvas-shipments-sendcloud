@@ -1,6 +1,6 @@
 <?php
 	
-	namespace Quellabs\Payments\SendCloud\Sculpt;
+	namespace Quellabs\Shipments\SendCloud\Sculpt;
 	
 	use Quellabs\Support\ComposerUtils;
 	use Quellabs\Sculpt\ConfigurationManager;
